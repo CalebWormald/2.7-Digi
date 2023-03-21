@@ -1,0 +1,17 @@
+smap=[
+{"Pos":"1", "dir":"E"},{"Pos":"2", "dir":"EWS"},{"Pos":"3", "dir":"EW"},{"Pos":"4", "dir":"WS"},
+{"Pos":"5", "dir":"S"},{"Pos":"6", "dir":"NS"},{"Pos":"7", "dir":"S"},{"Pos":"8", "dir":"N"},
+{"Pos":"9", "dir":"ES"},{"Pos":"10", "dir":"NW"},{"Pos":"11", "dir":"NE"},{"Pos":"12", "dir":"WS"},
+{"Pos":"13", "dir":"NE"},{"Pos":"14", "dir":"EW"},{"Pos":"15", "dir":"EW"},{"Pos":"16", "dir":"NW"},
+]
+
+Bmap=[
+{"Pos":"1", "dir":"S"},{"Pos":"2", "dir":"E"},{"Pos":"3", "dir":"EWS"},{"Pos":"4", "dir":"EW"},{"Pos":"5", "dir":"EWS"},{"Pos":"6", "dir":"EW"},{"Pos":"7", "dir":"EWS"},{"Pos":"8", "dir":"WS"},
+{"Pos":"9", "dir":"NES"},{"Pos":"10", "dir":"W"},{"Pos":"11", "dir":"NE"},{"Pos":"12", "dir":"WS"}, {"Pos":"13", "dir":"N"},{"Pos":"14", "dir":"ES"},{"Pos":"15", "dir":"NW"},{"Pos":"16", "dir":"N"},
+{"Pos":"17", "dir":"NES"},{"Pos":"18", "dir":"EW"},{"Pos":"19", "dir":"EW"},{"Pos":"20", "dir":"NW"},{"Pos":"21", "dir":"ES"},{"Pos":"22", "dir":"NW"},{"Pos":"23", "dir":"S"},{"Pos":"24", "dir":"S"},
+{"Pos":"25", "dir":"NE"},{"Pos":"26", "dir":"WS"},{"Pos":"27", "dir":"N"},{"Pos":"28", "dir":"S"},{"Pos":"29", "dir":"N"},{"Pos":"30", "dir":"ES"},{"Pos":"31", "dir":"NW"},{"Pos":"32", "dir":"NWS"},
+{"Pos":"33", "dir":"NE"},{"Pos":""34, "dir":"NEW"},{"Pos":"35", "dir":"EWS"},{"Pos":"36", "dir":"NEW"},{"Pos":"37", "dir":"EWS"},{"Pos":"38", "dir":"NW"},{"Pos":"39", "dir":"ES"},{"Pos":"40","dir":"NW"},
+{"Pos":"41", "dir":"NS"},{"Pos":"42", "dir":"S"},{"Pos":"43", "dir":"N"},{"Pos":"44", "dir":"S"},{"Pos":"45", "dir":"NE"},{"Pos":"46", "dir":"WS"},{"Pos":"47", "dir":"NE"},{"Pos":"48", "dir":"WS"},
+{"Pos":"49", "dir":"NE"},{"Pos":"50", "dir":"NW"},{"Pos":"51", "dir":"ES"},{"Pos":"52", "dir":"NEW"},{"Pos":"53", "dir":"WS"},{"Pos":"54", "dir":"N"},{"Pos":"55", "dir":"ES"},{"Pos":"56", "dir":"NW"},
+{"Pos":"57", "dir":"E"},{"Pos":"58", "dir":"EW"},{"Pos":"59", "dir":"NW"},{"Pos":"60", "dir":"E"},{"Pos":"61", "dir":"NEW"},{"Pos":"62", "dir":"EW"},{"Pos":"63", "dir":"NEW"},{"Pos":"64", "dir":"W"}
+]
