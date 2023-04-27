@@ -1,8 +1,8 @@
 smap=[
-{"Pos":"1", "dir":"E"},{"Pos":"2", "dir":"EWS"},{"Pos":"3", "dir":"EW"},{"Pos":"4", "dir":"WS"},
-{"Pos":"5", "dir":"S"},{"Pos":"6", "dir":"NS"},{"Pos":"7", "dir":"S"},{"Pos":"8", "dir":"N"},
-{"Pos":"9", "dir":"ES"},{"Pos":"10", "dir":"NW"},{"Pos":"11", "dir":"NE"},{"Pos":"12", "dir":"WS"},
-{"Pos":"13", "dir":"NE"},{"Pos":"14", "dir":"EW"},{"Pos":"15", "dir":"EW"},{"Pos":"16", "dir":"NW"},
+{"pos":"1", "dir":"E"},{"pos":"2", "dir":"EWS"},{"pos":"3", "dir":"EW"},{"pos":"4", "dir":"WS"},
+{"pos":"5", "dir":"S"},{"pos":"6", "dir":"NS"},{"pos":"7", "dir":"S"},{"pos":"8", "dir":"N"},
+{"pos":"9", "dir":"ES"},{"pos":"10", "dir":"NW"},{"pos":"11", "dir":"NE"},{"pos":"12", "dir":"WS"},
+{"pos":"13", "dir":"NE"},{"pos":"14", "dir":"EW"},{"pos":"15", "dir":"EW"},{"pos":"16", "dir":"NW"},
 ]
 
 smap=[
@@ -13,24 +13,24 @@ smap=[
 ]
 
 Bmap=[
-{"Pos":"1", "dir":"S", "item":"key"},{"Pos":"2", "dir":"E"},{"Pos":"3", "dir":"EWS"},{"Pos":"4", "dir":"EW"},{"Pos":"5", "dir":"EWS"},{"Pos":"6", "dir":"EW"},{"Pos":"7", "dir":"EWS"},{"Pos":"8", "dir":"WS"},
-{"Pos":"9", "dir":"NES"},{"Pos":"10", "dir":"W"},{"Pos":"11", "dir":"NE"},{"Pos":"12", "dir":"WS"}, {"Pos":"13", "dir":"N"},{"Pos":"14", "dir":"ES"},{"Pos":"15", "dir":"NW"},{"Pos":"16", "dir":"N"},
-{"Pos":"17", "dir":"NES"},{"Pos":"18", "dir":"EW"},{"Pos":"19", "dir":"EW"},{"Pos":"20", "dir":"NW"},{"Pos":"21", "dir":"ES"},{"Pos":"22", "dir":"NW"},{"Pos":"23", "dir":"S"},{"Pos":"24", "dir":"S"},
-{"Pos":"25", "dir":"NE"},{"Pos":"26", "dir":"WS"},{"Pos":"27", "dir":"N"},{"Pos":"28", "dir":"S"},{"Pos":"29", "dir":"N", "item":""key_card},{"Pos":"30", "dir":"ES"},{"Pos":"31", "dir":"NW"},{"Pos":"32", "dir":"NWS"},
-{"Pos":"33", "dir":"NE"},{"Pos":""34, "dir":"NEW"},{"Pos":"35", "dir":"EWS"},{"Pos":"36", "dir":"NEW"},{"Pos":"37", "dir":"EWS"},{"Pos":"38", "dir":"NW"},{"Pos":"39", "dir":"ES"},{"Pos":"40","dir":"NW"},
-{"Pos":"41", "dir":"NS"},{"Pos":"42", "dir":"S"},{"Pos":"43", "dir":"N"},{"Pos":"44", "dir":"S", "item":"crowbar"},{"Pos":"45", "dir":"NE"},{"Pos":"46", "dir":"WS"},{"Pos":"47", "dir":"NE"},{"Pos":"48", "dir":"WS"},
-{"Pos":"49", "dir":"NE"},{"Pos":"50", "dir":"NW"},{"Pos":"51", "dir":"ES"},{"Pos":"52", "dir":"NEW"},{"Pos":"53", "dir":"WS"},{"Pos":"54", "dir":"N"},{"Pos":"55", "dir":"ES"},{"Pos":"56", "dir":"NW"},
-{"Pos":"57", "dir":"E"},{"Pos":"58", "dir":"EW"},{"Pos":"59", "dir":"NW"},{"Pos":"60", "dir":"E"},{"Pos":"61", "dir":"NEW"},{"Pos":"62", "dir":"EW"},{"Pos":"63", "dir":"NEW"},{"Pos":"64", "dir":"W"}
+{"pos":"1", "dir":"S", "item":"key"},{"pos":"2", "dir":"E"},{"pos":"3", "dir":"EWS"},{"pos":"4", "dir":"EW"},{"pos":"5", "dir":"EWS"},{"pos":"6", "dir":"EW"},{"pos":"7", "dir":"EWS"},{"pos":"8", "dir":"WS"},
+{"pos":"9", "dir":"NES"},{"pos":"10", "dir":"W"},{"pos":"11", "dir":"NE"},{"pos":"12", "dir":"WS"}, {"pos":"13", "dir":"N"},{"pos":"14", "dir":"ES"},{"pos":"15", "dir":"NW"},{"pos":"16", "dir":"N"},
+{"pos":"17", "dir":"NES"},{"pos":"18", "dir":"EW"},{"pos":"19", "dir":"EW"},{"pos":"20", "dir":"NW"},{"pos":"21", "dir":"ES"},{"pos":"22", "dir":"NW"},{"pos":"23", "dir":"S"},{"pos":"24", "dir":"S"},
+{"pos":"25", "dir":"NE"},{"pos":"26", "dir":"WS"},{"pos":"27", "dir":"N"},{"pos":"28", "dir":"S"},{"pos":"29", "dir":"N", "item":""key_card},{"pos":"30", "dir":"ES"},{"pos":"31", "dir":"NW"},{"pos":"32", "dir":"NWS"},
+{"pos":"33", "dir":"NE"},{"pos":""34, "dir":"NEW"},{"pos":"35", "dir":"EWS"},{"pos":"36", "dir":"NEW"},{"pos":"37", "dir":"EWS"},{"pos":"38", "dir":"NW"},{"pos":"39", "dir":"ES"},{"pos":"40","dir":"NW"},
+{"pos":"41", "dir":"NS"},{"pos":"42", "dir":"S"},{"pos":"43", "dir":"N"},{"pos":"44", "dir":"S", "item":"crowbar"},{"pos":"45", "dir":"NE"},{"pos":"46", "dir":"WS"},{"pos":"47", "dir":"NE"},{"pos":"48", "dir":"WS"},
+{"pos":"49", "dir":"NE"},{"pos":"50", "dir":"NW"},{"pos":"51", "dir":"ES"},{"pos":"52", "dir":"NEW"},{"pos":"53", "dir":"WS"},{"pos":"54", "dir":"N"},{"pos":"55", "dir":"ES"},{"pos":"56", "dir":"NW"},
+{"pos":"57", "dir":"E"},{"pos":"58", "dir":"EW"},{"pos":"59", "dir":"NW"},{"pos":"60", "dir":"E"},{"pos":"61", "dir":"NEW"},{"pos":"62", "dir":"EW"},{"pos":"63", "dir":"NEW"},{"pos":"64", "dir":"W"}
 ]
 
 
 bmap=[
-{"Pos":"0", "direction":"S", "item":"key"},{"Pos":"1", "direction":"E"},{"Pos":"2", "direction":"EWS"},{"Pos":"3", "direction":"EW"},{"Pos":"4", "direction":"EWS"},{"Pos":"5", "direction":"EW"},{"Pos":"6", "direction":"EWS"},{"Pos":"7", "direction":"WS"},
-{"Pos":"8", "direction":"NES"},{"Pos":"9", "direction":"W"},{"Pos":"10", "direction":"NE"},{"Pos":"11", "direction":"WS"}, {"Pos":"12", "direction":"N"},{"Pos":"13", "direction":"ES"},{"Pos":"14", "direction":"NW"},{"Pos":"15", "direction":"N"},
-{"Pos":"16", "direction":"NES"},{"Pos":"17", "direction":"EW"},{"Pos":"18", "direction":"EW"},{"Pos":"19", "direction":"NW"},{"Pos":"20", "direction":"ES"},{"Pos":"21", "direction":"NW"},{"Pos":"22", "direction":"S"},{"Pos":"23", "direction":"S"},
-{"Pos":"24", "direction":"NE"},{"Pos":"25", "direction":"WS"},{"Pos":"26", "direction":"N"},{"Pos":"27", "direction":"S"},{"Pos":"28", "direction":"N", "item":"key_card"},{"Pos":"29", "direction":"ES"},{"Pos":"30", "direction":"NW"},{"Pos":"31", "direction":"NWS"},
-{"Pos":"32", "direction":"NE"},{"Pos":"33", "direction":"NEW"},{"Pos":"34", "direction":"EWS"},{"Pos":"35", "direction":"NEW"},{"Pos":"36", "direction":"EWS"},{"Pos":"37", "direction":"NW"},{"Pos":"38", "direction":"ES"},{"Pos":"39","direction":"NW"},
-{"Pos":"40", "direction":"NS"},{"Pos":"41", "direction":"S"},{"Pos":"42", "direction":"N"},{"Pos":"43", "direction":"S", "item":"crowbar"},{"Pos":"44", "direction":"NE"},{"Pos":"45", "direction":"WS"},{"Pos":"46", "direction":"NE"},{"Pos":"47", "direction":"WS"},
-{"Pos":"48", "direction":"NE"},{"Pos":"49", "direction":"NW"},{"Pos":"50", "direction":"ES"},{"Pos":"51", "direction":"NEW"},{"Pos":"52", "direction":"WS"},{"Pos":"53", "direction":"N"},{"Pos":"54", "direction":"ES"},{"Pos":"55", "direction":"NW"},
-{"Pos":"56", "direction":"E"},{"Pos":"57", "direction":"EW"},{"Pos":"58", "direction":"NW"},{"Pos":"59", "direction":"E"},{"Pos":"60", "direction":"NEW"},{"Pos":"61", "direction":"EW"},{"Pos":"62", "direction":"NEW"},{"Pos":"63", "direction":"W"}
+{"pos":"0", "direction":"S", "item":"key"},{"pos":"1", "direction":"E"},{"pos":"2", "direction":"EWS"},{"pos":"3", "direction":"EW"},{"pos":"4", "direction":"EWS"},{"pos":"5", "direction":"EW"},{"pos":"6", "direction":"EWS"},{"pos":"7", "direction":"WS"},
+{"pos":"8", "direction":"NES"},{"pos":"9", "direction":"W"},{"pos":"10", "direction":"NE"},{"pos":"11", "direction":"WS"}, {"pos":"12", "direction":"N"},{"pos":"13", "direction":"ES"},{"pos":"14", "direction":"NW"},{"pos":"15", "direction":"N"},
+{"pos":"16", "direction":"NES"},{"pos":"17", "direction":"EW"},{"pos":"18", "direction":"EW"},{"pos":"19", "direction":"NW"},{"pos":"20", "direction":"ES"},{"pos":"21", "direction":"NW"},{"pos":"22", "direction":"S"},{"pos":"23", "direction":"S"},
+{"pos":"24", "direction":"NE"},{"pos":"25", "direction":"WS"},{"pos":"26", "direction":"N"},{"pos":"27", "direction":"S"},{"pos":"28", "direction":"N", "item":"key_card"},{"pos":"29", "direction":"ES"},{"pos":"30", "direction":"NW"},{"pos":"31", "direction":"NWS"},
+{"pos":"32", "direction":"NE"},{"pos":"33", "direction":"NEW"},{"pos":"34", "direction":"EWS"},{"pos":"35", "direction":"NEW"},{"pos":"36", "direction":"EWS"},{"pos":"37", "direction":"NW"},{"pos":"38", "direction":"ES"},{"pos":"39","direction":"NW"},
+{"pos":"40", "direction":"NS"},{"pos":"41", "direction":"S"},{"pos":"42", "direction":"N"},{"pos":"43", "direction":"S", "item":"crowbar"},{"pos":"44", "direction":"NE"},{"pos":"45", "direction":"WS"},{"pos":"46", "direction":"NE"},{"pos":"47", "direction":"WS"},
+{"pos":"48", "direction":"NE"},{"pos":"49", "direction":"NW"},{"pos":"50", "direction":"ES"},{"pos":"51", "direction":"NEW"},{"pos":"52", "direction":"WS"},{"pos":"53", "direction":"N"},{"pos":"54", "direction":"ES"},{"pos":"55", "direction":"NW"},
+{"pos":"56", "direction":"E"},{"pos":"57", "direction":"EW"},{"pos":"58", "direction":"NW"},{"pos":"59", "direction":"E"},{"pos":"60", "direction":"NEW"},{"pos":"61", "direction":"EW"},{"pos":"62", "direction":"NEW"},{"pos":"63", "direction":"W"}
 ]
